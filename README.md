@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ranjith Kumar Reddy Thamatam
+### Hola..!This is Ranjith Kumar 👋
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Data Science and Big Data
