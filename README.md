@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ranjith — a passionate software developer and open-source enthusiast.<br><br>I specialise in building applications, and I'm always excited to learn new technologies. Currently, I’m diving deep into SwiftUI Frameworks. My goal is to create elegant, scalable, and efficient solutions to real-world problems.<br><br>🌱 What I'm currently learning:<br>iOS Development which includes Swift, SwiftUI Frameworks.<br>Data Analysis using Python, PostgreSQL and Tableau.<br><br>📈 Fun Facts:<br><br>When I’m not coding, you’ll probably find me in one of the tourist spots.<br>
+👋 Hi, I'm Ranjith — a passionate software developer and open-source enthusiast.<br><br>I specialise in building applications, and I'm always excited to learn new technologies. Currently, I’m diving deep into SwiftUI Frameworks. My goal is to create elegant, scalable, and efficient solutions to real-world problems.<br><br>🌱 What I'm currently learning:<br>iOS Development which includes Swift, SwiftUI Frameworks.<br>Data Analysis using Python, PostgreSQL and Tableau.<br><br>📈 Fun Facts:<br>When I’m not coding, you’ll probably find me in one of the tourist spots.<br>
 
 
 # 💻 Tech Stack:
